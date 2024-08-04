@@ -1,2 +1,2 @@
 # 4231FinalProject
-Final project
+Final project for game dev
